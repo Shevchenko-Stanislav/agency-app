@@ -1,0 +1,20 @@
+.card_list__wrap {
+    margin-top: 48px;
+    .card_list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(329px, 1fr));
+        grid-column-gap: 30px;
+
+        max-width: 1550px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 374px) {
+    .card_list__wrap {
+        .card_list {
+            grid-template-columns: repeat(auto-fill, minmax(232px, 1fr));
+        }
+    }
+}
+

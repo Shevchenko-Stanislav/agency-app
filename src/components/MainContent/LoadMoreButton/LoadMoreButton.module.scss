@@ -1,0 +1,18 @@
+.load_more_btn__wrap {
+    display: flex;
+    justify-content: center;
+
+    .load_more_btn {
+        width: 170px;
+        height: 48px;
+        border-radius: 5px;
+        border: none;
+        background-color: white;
+        cursor: pointer;
+
+        span {
+            font-size: 14px;
+            font-weight: 900;
+        }
+    }
+}

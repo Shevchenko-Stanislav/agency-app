@@ -1,0 +1,28 @@
+.menu {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 567px;
+    list-style-type: none;
+    margin-bottom: 75px;
+
+    .active {
+        color: #16CD53;
+        opacity: 1;
+    }
+
+    li {
+        color: #39140064;
+        font-size: 16px;
+        font-weight: 400;
+        cursor: pointer;
+    }
+}
+
+@media (max-width: 1024px) {
+    .menu {
+        display: none;
+    }
+}
+
