@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agency-app/static/css/main.82264851.css",
+    "main.js": "/agency-app/static/js/main.3ec36278.js",
+    "static/media/Abstract_bg.png": "/agency-app/static/media/Abstract_bg.89d818981d49c85943bb.png",
+    "static/media/SOFA_bg.png": "/agency-app/static/media/SOFA_bg.f08e634d504d9a45784b.png",
+    "static/media/Architect_bg.png": "/agency-app/static/media/Architect_bg.d86572416f6599719602.png",
+    "static/media/Sport_bg.png": "/agency-app/static/media/Sport_bg.816727aa3bb246be346a.png",
+    "static/media/DDDone_bg.png": "/agency-app/static/media/DDDone_bg.f8e2fd905675a9d39048.png",
+    "static/media/HandP_bg.png": "/agency-app/static/media/HandP_bg.879635da0ac41cb31da4.png",
+    "static/media/WorkMedia_bg.png": "/agency-app/static/media/WorkMedia_bg.fafc56873deb39d6b74e.png",
+    "static/media/KeyBoard_bg.png": "/agency-app/static/media/KeyBoard_bg.bae0998f89ead0f87547.png",
+    "static/media/CalC_bg.png": "/agency-app/static/media/CalC_bg.98bf9a2ea55f227ac0f0.png",
+    "index.html": "/agency-app/index.html",
+    "main.82264851.css.map": "/agency-app/static/css/main.82264851.css.map",
+    "main.3ec36278.js.map": "/agency-app/static/js/main.3ec36278.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82264851.css",
+    "static/js/main.3ec36278.js"
+  ]
+}
